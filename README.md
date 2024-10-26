@@ -71,6 +71,5 @@ GPA: 3.3 / 4.0 (Expected Graduation: Sep 2021 – Present)
   - PowerPoint 2016 (Dec 2024)
   - Word 2016 (May 2024)
   - Excel 2016 (Apr 2024)
-```
 
-README này tổng hợp các kỹ năng, kinh nghiệm, dự án, và học vấn của bạn một cách ngắn gọn, dễ hiểu cho GitHub!
+
