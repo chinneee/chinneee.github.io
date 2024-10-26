@@ -2,6 +2,7 @@
 
 📧 nguyentrinh150221@gmail.com  
 🌐 [GitHub](https://github.com/chinneee) | [LinkedIn](https://www.linkedin.com/in/trinhnguyen2605)  
+📞 [Phone](tel:0399808387): 0399808387
 
 ## About Me
 I am a dedicated data analyst constantly working to enhance my skills and knowledge. With expertise in advanced analytical tools and techniques, I am committed to providing valuable insights, reports, and strategic recommendations. I maintain a professional and collaborative mindset across the organization and focus on continuous learning.
