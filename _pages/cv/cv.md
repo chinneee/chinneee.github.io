@@ -1,23 +1,22 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
-
----
 # SKILLS
 ---
 ## Tools and Languages
-- Python, R, Microsoft SQL Server, MySQL, Google Analytics 4, Power BI, Locker Studio, Excel, LaTeX
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 	![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 	![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ## Domain Knowledge
   - Sales and Marketing Analytics, E-commerce Analytics, Social Media Analytics
+
 ## Soft Skills
   - Logical thinking, Problem solving, Presentation, Communication
+
 ## Communication
   - English, Vietnamese
 
@@ -27,22 +26,19 @@ redirect_from:
 ---
 
 ### Research Department of HUB University, Ho Chi Minh, VN  
-**Research Student**  
-Dec 2023 — Present  
-
+**Research Student**  <span style="float: right;">Dec 2023 — Present</span>
 ### FUNiX Online Education Joint Stock Company  
-**Office IT Tutor**  
-Aug 2024 — Present  
+**Office IT Tutor**    <span style="float: right;">Aug 2024 — Present</span>
 
 ---
 
 # SHORT RESUMÉ
 ---
 
-## User Clustering on Social Networking Platforms and Applications in Business  
-Dec 2023 — Present  
-**Python, Web**  
-**Euréka Scientific Research Student Award 2024**  
+## User Clustering on Social Networking Platforms and Applications in Business    
+**Python, Web** <span style="float: right;">Dec 2023 — Nov 2024</span>\
+<span style="float: right;">**Euréka Scientific Research Student Award 2024**</span>
+
 - Developed tools to crawl users' post data across social platforms  
 - Analyzed data and applied word embedding to represent words in cleaned text as fixed-dimensional vectors  
 - Reduced dimensionality of data from high-dimensional space to lower-dimensional  
@@ -51,10 +47,10 @@ Dec 2023 — Present
 - Optimized marketing and advertising costs, enhancing business reach to potential users  
 - Created a website to analyze user posts and recommend suitable products  
 
-## Toman Bike Share Sales Analysis  
-May 2024 — Jun 2024  
-**MS SQL, Power BI**  
-**Ho Chi Minh University of Banking**  
+## Toman Bike Share Sales Analysis   
+**MS SQL, Power BI**<span style="float: right;">May 2024 — Jun 2024</span>\
+<span style="float: right;">**Ho Chi Minh University of Banking**</span>  
+  
 - Gathered data with 34,000+ rows including date, time, rider type, weather, and pricing  
 - Cleaned data and engineered features  
 - Analyzed revenue, trends, and demographics  
@@ -63,18 +59,18 @@ May 2024 — Jun 2024
 - **Strategy:** Market research and price monitoring  
 
 ## Hoa Phat Group Stock Price Prediction (HOSE: HPG)  
-Feb 2024 — Apr 2024  
-**Python**  
-**Ho Chi Minh University of Banking**  
+**Python**  <span style="float: right;">Feb 2024 — Apr 2024</span>\
+<span style="float: right;">**Ho Chi Minh University of Banking**</span>  
+ 
 - Collected historical stock price data for HPG using `vnstock`  
 - Applied the ARIMA (Autoregressive Integrated Moving Average) model to predict future stock prices  
 - Compared predicted prices with actual prices to determine the model’s accuracy  
 - Analyzed factors affecting prediction performance  
 
 ## Decoding Customer Response for Profitable Campaigns  
-Sep 2023 — Nov 2023  
-**R Programming**  
-**Ho Chi Minh University of Banking**  
+**R Programming**  <span style="float: right;">Sep 2023 — Nov 2023</span>\
+<span style="float: right;">**Ho Chi Minh University of Banking**</span>
+  
 - **Data Preparation:** Cleaned a 2,200+ customer dataset  
 - **Analysis:** Explored response rates by age and income  
 - **Modeling:** Used Random Forest, Logistic Regression, Decision Trees; applied K-Means for segmentation  
@@ -86,21 +82,20 @@ Sep 2023 — Nov 2023
 # EDUCATION
 ---
 
-### Ho Chi Minh University of Banking  
-**Management Information System**  
-GPA: 3.3 / 4.0  
-Graduating Sep 2021 — Present  
+### Ho Chi Minh University of Banking <span style="float: right;">Graduating Sep 2021 — Present</span> 
+**Management Information System**  <span style="float: right;">**GPA: 3.3 / 4.0**</span>
+
 **Data Science in Business**  
-- Relevant coursework: *Big Data Analytics, Social Media Data Analysis, Data Mining, Data Warehouse and Decision Support System, Data Visualization...*  
+- **Relevant coursework:** *Big Data Analytics, Social Media Data Analysis, Data Mining, Data Warehouse and Decision Support System, Data Visualization...*  
 
 ---
 
 # CERTIFICATIONS
 ---
-- **TOEIC (LC + RC):** 730 (Nov 2024)  
-- **Google Data Analytics Professional Certificate:** Oct 2024  
-- **Microsoft Office Specialist: Word 2016:** May 2024  
-- **Microsoft Office Specialist: Excel 2016:** May 2024  
+- **TOEIC (LC + RC):** 730  <span style="float: right;">Nov 2024</span> 
+- **Google Data Analytics Professional Certificate**   <span style="float: right;">Oct 2024</span>
+- **Microsoft Office Specialist: Word 2016**   <span style="float: right;">May 2024</span>
+- **Microsoft Office Specialist: Excel 2016**  <span style="float: right;">Apr 2024</span>
 
 # Download My CV
 
