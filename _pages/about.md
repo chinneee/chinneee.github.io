@@ -32,8 +32,11 @@ With hands-on experience in tools like **Python, R, SQL, Power BI**, and **Excel
 
 I’d love to connect and discuss data analytics or collaboration opportunities. Reach out to me via:
 
-- 📧 Email: **[nguyentrinh150221@gmail.com](mailto:nguyentrinh150221@gmail.com)**  
-- 🖥️ GitHub: **[github.com/chinneee](https://github.com/chinneee)**  
-- 💼 LinkedIn: **[LinkedIn Profile](https://www.linkedin.com/in/trinhnguyen2605/)**  
+- <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="20"> Email: **[nguyentrinh150221@gmail.com](mailto:nguyentrinh150221@gmail.com)** 
+- <img src="https://pngimg.com/uploads/github/github_PNG40.png" alt="GitHub" width="21"> GitHub: **[github.com/chinneee](https://github.com/chinneee)**  
+- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20"> LinkedIn: **[LinkedIn Profile](https://www.linkedin.com/in/trinhnguyen2605/)**
+
+
+
 
 Let’s grow and innovate together! 🚀

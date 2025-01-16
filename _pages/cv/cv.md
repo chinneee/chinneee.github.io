@@ -98,7 +98,7 @@ redirect_from:
 - **Microsoft Office Specialist: Excel 2016**  <span style="float: right;">Apr 2024</span>
 
 # Download My CV
-
+---
 Click the button below to download my CV:
 
-<a href="./NguyenThuyTrinh_DataAnalystIntern.pdf" download="NguyenThuyTrinh_DataAnalystIntern.pdf" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: #fff; background-color: #007BFF; text-decoration: none; border-radius: 5px;">Download CV</a>
+<a href="/_pages/cv/NguyenThuyTrinh_DataAnalystIntern.pdf" download="NguyenThuyTrinh_DataAnalystIntern.pdf" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: #fff; background-color: #007BFF; text-decoration: none; border-radius: 5px;">Download CV</a>
