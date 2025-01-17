@@ -31,8 +31,8 @@ Investors in the stock market constantly seek methods to predict future stock pr
 ## Using the Notebook
 
 Open and run each cell in the [Stock_Price_Prediction.ipynb](https://github.com/chinneee/Stock-Price-Prediction/blob/main/Stock_Price_Pediction.ipynb) notebook to:
-- Collect historical stock price data for HPG.\
-- Preprocess the data and build an ARIMA model.\
+- Collect historical stock price data for HPG.
+- Preprocess the data and build an ARIMA model.
 - Evaluate the predictive model.
 
 ## Results

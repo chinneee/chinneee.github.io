@@ -1,24 +1,25 @@
 ---
 title: "Decoding Customer Response for Profitable Campaigns"
-excerpt: "This project leverages machine learning to predict customer responses to food company campaigns. By analyzing key customer traits, we identified high-value segments that are most likely to engage, enabling more targeted and profitable marketing strategies.<br/><img src='/images/Marketing.jpg'>"
+excerpt: "This project leverages machine learning to predict customer responses to food company campaigns. By analyzing key customer traits, we identified high-value segments that are most likely to engage, enabling more targeted and profitable marketing strategies.<br/><img src='https://d3caycb064h6u1.cloudfront.net/wp-content/uploads/2021/08/customerbehavior-scaled.jpg'>"
 collection: portfolio
 ---
 
-## Introduction:
+## Introduction
 
 Have you ever wondered which customers are most likely to respond to your food company's marketing efforts? We embarked on a data-driven quest to answer just that!
 
-## The Challenge:
+## The Challenge
 
 Predicting customer response to marketing campaigns is crucial for maximizing profitability.  Our goal was to unlock the key customer characteristics that influence their reaction to food company campaigns.
 ![](https://d3caycb064h6u1.cloudfront.net/wp-content/uploads/2021/08/customerbehavior-scaled.jpg)
 Image source: [How to Analyze and Predict the Behavior of Consumers](https://d3caycb064h6u1.cloudfront.net/wp-content/uploads/2021/08/customerbehavior-scaled.jpg)
 
-## The Data:
+## The Data
 
-We delved into a rich dataset of over 2,200 customers, encompassing 39 variables and revealing their socio-economic and firmographic profiles. However, duplicate entries required attention, and the response variable itself was imbalanced, demanding a strategic approach.  (Full dataset available: https://github.com/nailson/ifood-data-business-analyst-test/tree/master)
+We delved into a rich dataset of over 2,200 customers, encompassing 39 variables and revealing their socio-economic and firmographic profiles. However, duplicate entries required attention, and the response variable itself was imbalanced, demanding a strategic approach.\
+Full dataset available: [GitHub](https://github.com/nailson/ifood-data-business-analyst-test/tree/master)
 
-## Unveiling the Secrets:
+## Unveiling the Secrets
 
 Our analysis focused on the 10 most impactful customer features, providing deep insights into their demographics and behaviors.  We employed various techniques to extract these secrets:
 
@@ -32,7 +33,7 @@ Our analysis focused on the 10 most impactful customer features, providing deep 
   * Big Spenders: This group also exhibited the highest spending across diverse product categories.
   * Campaign Enthusiasts: These customers demonstrated a strong positive response to various marketing initiatives.
 
-## The Golden Ticket:
+## The Golden Ticket
 
 This analysis empowered us to achieve significant results:
 
@@ -40,7 +41,7 @@ This analysis empowered us to achieve significant results:
 * Key Customer Insights: We identified high-income customers with strong purchasing power, high brand engagement, and a positive attitude towards marketing campaigns as the most receptive group.
 * Profitable Targeting: By tailoring marketing strategies and offers to these customer segments, we can maximize response rates and ultimately, profitability.
 
-## The Final Bite:
+## The Final Bite
 
 This journey through customer data has yielded invaluable insights. By understanding customer behavior and characteristics, we can craft more effective marketing campaigns that resonate with the right audience, driving success for the food company.
 
