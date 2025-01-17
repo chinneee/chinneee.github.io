@@ -8,33 +8,42 @@ redirect_from:
 {% include base_path %}
 # SKILLS
 ---
-## Tools and Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 	![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 	![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Domain Knowledge
-  - Sales and Marketing Analytics, E-commerce Analytics, Social Media Analytics
+<table style="border-collapse: collapse; width: 100%; border: none;">
+  <tr>
+    <td style="font-weight: bold; width: 20%; font-size: 1.2em; border: none;">Tools and Languages</td>
+    <td style="font-size: 1.2em; border: none;">Python, R, Microsoft SQL Server, MySQL, Google Analytics 4, Power BI, Locker Studio, Excel, Latex</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; font-size: 1.2em; border: none;">Domain Knowledge</td>
+    <td style="font-size: 1.2em; border: none;">Sales and Marketing Analytics, E-commerce Analytics, Social Media Analytics</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; font-size: 1.2em; border: none;">Soft Skills</td>
+    <td style="font-size: 1.2em; border: none;">Logical thinking, Problem solving, Presentation, Communication</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; font-size: 1.2em; border: none;">Communication</td>
+    <td style="font-size: 1.2em; border: none;">English, Vietnamese</td>
+  </tr>
+</table>
 
-## Soft Skills
-  - Logical thinking, Problem solving, Presentation, Communication
 
-## Communication
-  - English, Vietnamese
+
 
 ---
-
 # EXPERIENCE
 ---
-
-### Research Department of HUB University, Ho Chi Minh, VN  
-**Research Student**  <span style="float: right;">Dec 2023 — Present</span>
 ### FUNiX Online Education Joint Stock Company  
 **Office IT Tutor**    <span style="float: right;">Aug 2024 — Present</span>
+### Research Department of HUB University, Ho Chi Minh, VN  
+**Research Student**  <span style="float: right;">Dec 2023 — Present</span>
 
 ---
 
 # SHORT RESUMÉ
 ---
-
 ## User Clustering on Social Networking Platforms and Applications in Business    
 **Python, Web** <span style="float: right;">Dec 2023 — Nov 2024</span>\
 <span style="float: right;">**Euréka Scientific Research Student Award 2024**</span>
