@@ -1,5 +1,5 @@
 ---
-title: "3 SQL Queries Asked in Interview for Business Analyst"
+title: "Three SQL Queries Asked in Interview for Business Analyst"
 excerpt: "This document introduces and solves three key **SQL problems** often posed during **Business Analyst interviews**. Each query addresses real-world scenarios to demonstrate a strong understanding of SQL capabilities such as data *transformation, aggregation, and ranking*.   <br/><img src='https://artoftesting.com/wp-content/uploads/2019/12/SQL-query-interview-questions.jpg'>"
 collection: portfolio
 ---
